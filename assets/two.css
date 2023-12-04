@@ -1,0 +1,237 @@
+body{
+    background-color:lightgray;
+    border-style: inset;
+}
+
+.container{ 
+    background-color:lightgray;
+    border: 10px;
+    border-style: inset;
+}
+#webname { 
+ background-color: mediumblue;
+ color: aliceblue;
+ padding-left: 10px;
+ font-size: medium;
+}
+
+h2{
+    border-bottom: 10px;
+    border-style: groove;
+}
+
+.item2{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-bottom: 10px;
+    border-style: groove;
+}
+
+.buttons {
+    border-style:inset;
+    border-width: 5px;
+    background-color: lightgray;
+    height: 60px;
+    width: 70px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+.button1 {
+    border-style: inset;
+    background-color: lightgray;
+    height: 70px;
+    width: 85px;
+    font-family:'Times New Roman', Times, serif;
+    border-width: 5px;
+    
+}
+
+.button2 {
+    border-style: inset;
+    background-color: lightgray;
+    height: 70px;
+    width: 85px;
+    font-family:'Times New Roman', Times, serif;
+    border-width: 5px;
+    position:absolute;
+    top:134px;
+    left:116px;
+}
+
+.button3 { 
+    position:absolute;
+    top:134px;
+    left:202px;
+}
+
+.button4 {
+    position:absolute;
+    top:134px;
+    left:304px;
+}
+
+.button5{
+    position:absolute;
+    top:134px;
+    left:406px;
+}
+
+.button6{
+    position:absolute;
+    top:134px;
+    left:492px;
+}
+
+.button7{
+    position:absolute;
+    top:134px;
+    left:578px;
+}
+
+.button8{
+    position:absolute;
+    top:134px;
+    left:664px;
+}
+
+.button9{
+    position:absolute;
+    top:134px;
+    left:750px;
+}
+
+.item3{
+    padding-left: 10px;
+    background-color: aliceblue; 
+    border-style: inset;
+    border-bottom:10px;
+    padding-left:10px;
+    font-size: 90%;
+}
+
+#name{
+    position: absolute;
+    top: 230px;
+    left:115px;
+    font-size: 150%;
+}
+
+.item4{
+    background-color: black;
+    height: 900px;
+    width: 1820px;
+    border: 2px inset;
+    background: url(monet.JPG);
+    background-repeat: no-repeat;
+    background-size: 800px 1050px;
+ 
+} 
+
+.item5{
+    position: absolute;
+    top: 315px;
+    left:75px;
+}
+
+#text1{
+    color:rgb(70, 131, 38);
+    font-size: 550%;
+    font-family: cursive;
+    text-shadow: rgb(33, 60, 19) 8px 14px;
+}
+
+
+.item6{
+    position: absolute;
+    top: 299px;
+    left:70px;
+}
+
+#text2{
+    color:rgb(84, 157, 44);
+    font-size: 520%;
+    font-family: cursive;
+    text-shadow: rgb(47, 86, 27) 4px 9px;
+}
+
+.item7{
+    position:absolute;
+    top:750px;
+    left:155px;
+}
+
+#text3{
+    color:rgb(70, 131, 38);
+    font-size: 550%;
+    font-family: cursive;
+    text-shadow: rgb(33, 60, 19) 8px 14px;
+}
+
+.item8{
+    position: absolute;
+    top: 735px;
+    left:140px;
+}
+
+#text4{
+    color:rgb(84, 157, 44);
+    font-size: 520%;
+    font-family: cursive;
+    text-shadow: rgb(40, 74, 23) 4px 9px;
+}
+
+.bubblebg{
+    background-color: lightgray;
+    position: absolute;
+    width:300px;
+    height:145px;
+    border-style: inset;
+    border-width:5px;
+    border-color: gray;
+    top: 1040px;
+    left:475px
+    
+}
+
+
+.bubble{
+    position: absolute;
+    top: 1037px;  
+    left:485px;
+    padding-left: 6px;
+}
+
+#web{ 
+    background-color: mediumblue;
+    color: aliceblue;
+    padding-left: 11px;
+    font-size: 50%;
+   
+}
+
+#webtext{
+    font-size: 50%;
+
+}
+
+.bubbleshape{
+    background-color: black;
+    height:100px;
+    width:280px;
+    position: absolute;
+    top: 1085px;
+    left:490px;
+}
+
+.item9{
+    position: absolute;
+    top: 1150px;
+    left: 725px;
+}
+
+#NEXT{
+    background-color:rgb(131, 159, 183);
+    font-size: medium;
+}

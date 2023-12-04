@@ -1,0 +1,161 @@
+body{
+    background-color:lightgray;
+    border-style: inset;
+}
+
+.container{ 
+    background-color:lightgray;
+    border: 10px;
+    border-style: inset;
+}
+#webname { 
+ background-color: mediumblue;
+ color: aliceblue;
+ padding-left: 10px;
+ font-size: medium;
+}
+
+h2{
+    border-bottom: 10px;
+    border-style: groove;
+}
+
+.item2{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-bottom: 10px;
+    border-style: groove;
+}
+
+.buttons {
+    border-style:inset;
+    border-width: 5px;
+    background-color: lightgray;
+    height: 60px;
+    width: 70px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+.button1 {
+    border-style: inset;
+    background-color: lightgray;
+    height: 70px;
+    width: 85px;
+    font-family:'Times New Roman', Times, serif;
+    border-width: 5px;
+    
+}
+
+.button2 {
+    border-style: inset;
+    background-color: lightgray;
+    height: 70px;
+    width: 85px;
+    font-family:'Times New Roman', Times, serif;
+    border-width: 5px;
+    position:absolute;
+    top:134px;
+    left:116px;
+}
+
+.button3 { 
+    position:absolute;
+    top:134px;
+    left:202px;
+}
+
+.button4 {
+    position:absolute;
+    top:134px;
+    left:304px;
+}
+
+.button5{
+    position:absolute;
+    top:134px;
+    left:406px;
+}
+
+.button6{
+    position:absolute;
+    top:134px;
+    left:492px;
+}
+
+.button7{
+    position:absolute;
+    top:134px;
+    left:578px;
+}
+
+.button8{
+    position:absolute;
+    top:134px;
+    left:664px;
+}
+
+.button9{
+    position:absolute;
+    top:134px;
+    left:750px;
+}
+
+.item3{
+    background-color: black;
+    height: 1090px;
+    width:820px;
+    background: url(momento.JPG);
+    background-repeat: no-repeat;
+    background-size:820px 1090px;
+
+}
+
+@font-face{
+    font-family: 'arbutus';
+    src:url(Arbutus-Regular.ttf)
+}
+
+@font-face{
+    font-family: 'dancing script';
+    src: url(DancingScript-VariableFont_wght.ttf)
+}
+
+.item4{
+    position: absolute;
+    Top:150px;
+    left:50px;
+}
+
+#text1{
+    color: rgb(11, 11, 11);
+    font-size: 525%;
+    font-family: 'arbutus';
+    text-shadow: rgb(60, 62, 60) 5px 13px;
+}
+
+.item5{
+    position: absolute;
+    top:850px;
+    left:250px;
+}
+
+#text2{
+    color: rgb(255, 228, 78);
+    font-size: 200%;
+    font-family: 'dancing script';
+    text-shadow: rgb(200, 170, 0) 5px 10px;
+}
+
+.item6{
+    position: absolute;
+    top:625px;
+    left:525px;
+}
+
+#black{
+    background-color: #090a10;
+    border-radius: 50%;
+    
+}
